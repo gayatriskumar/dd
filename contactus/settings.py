@@ -71,11 +71,11 @@ WSGI_APPLICATION = 'contactus.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'contactusdb',
-        'USER':'postgres',
-        'PASSWORD':'koshii',
-        'HOST':'127.0.0.1',
-        'PORT':'5432',
+        'NAME': 'd1t9c226vk4q31',
+        'USER':'zwiznupwztwnqn',
+        'PASSWORD':'6003bfc1b5544542a0c4c85b80ccab0a7860712ae1255c6758bef59874320a99',
+        'HOST':'ec2-100-25-231-126.compute-1.amazonaws.com',
+        'PORT':5432,
     }
 }
 
