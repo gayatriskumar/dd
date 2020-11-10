@@ -15,7 +15,7 @@ SECRET_KEY = 'b#bxvugygx*^2_rhvcl6)b!r3-j3uswip$ghe#3u2ot791&mc9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['0.0.0.0', 'localhost', '127.0.0.1','boiling-shelf-70651.herokuapp.com']
 
 # Application definition
 
